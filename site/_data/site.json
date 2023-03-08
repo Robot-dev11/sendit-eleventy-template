@@ -1,9 +1,9 @@
 {
     "BaseURL": "http://example.org",
-    "site_title": "Sendit",
+    "site_title": "ExelaTech",
     "favicon_icon": "/images/favicon.ico",
     "favicon_image": "/images/favicon.png",
-    "description": "A polished, marketing website template built with Eleventy",
+    "description": "Exela’s business process automation (BPA) software, intelligent workplace systems, and technology experts come together to produce transformational results",
     "twitter_image": "/images/feature/feature-hero-two.png",
     "twitter_site": "@twitter_site",
     "image": "/images/feature/feature-hero.png",
