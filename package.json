@@ -8,7 +8,7 @@
     "bookshop-sass:build": "bookshop-sass -b component-library -o site/css/theme.css",
     "bookshop-sass:watch": "bookshop-sass -b component-library -o site/css/theme.css -w",
     "eleventy:build": "eleventy",
-    "eleventy:watch": "ELEVENTY_ENV=development eleventy --serve",
+    "eleventy:watch": "eleventy --serve",
     "start": "npm-run-all bookshop-sass:fetch-theme-color bookshop-sass:build --parallel bookshop-sass:watch bookshop:watch eleventy:watch"
   },
   "author": "CloudCannon",
